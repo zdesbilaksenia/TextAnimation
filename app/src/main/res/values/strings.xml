@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">TextViewAnimation</string>
+    <string name="greeting">ПРИВЕТ</string>
+</resources>
